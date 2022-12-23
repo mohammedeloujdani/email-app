@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/email-app/static/js/main.81174504.js",
+    "index.html": "/email-app/index.html",
+    "main.81174504.js.map": "/email-app/static/js/main.81174504.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.81174504.js"
+  ]
+}
